@@ -5,6 +5,9 @@
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/AreebKhan24/ActiveDirectory_BulkUserCreation)
   - [Creating a Honey Pot Using Azure Sentinel](https://github.com/AreebKhan24/AzureSentinelLab/tree/main)
+- <b>Vulnerability Management</b>
+  - [Nessus Essentials Scan on Vulnerable Machine](https://github.com/AreebKhan24/Nessus_Vulnerability)
+
 
 
 <h2> Certifications:</h2>
